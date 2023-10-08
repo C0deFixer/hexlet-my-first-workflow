@@ -1,5 +1,3 @@
-Hello, World!
-
 [bash]
 ----
 make say-hello
